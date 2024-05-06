@@ -1,5 +1,9 @@
 # test-task-omg
 
+Сайт: https://stasokulov.github.io/test-task-omg/
+
+Текст ТЗ: https://disk.yandex.ru/edit/d/ucYM3dzDQuoV3bsn9ReKESPegnqahzm72s0qoIz-cKg6NE04WnJrVnZ2QQ
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
